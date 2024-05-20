@@ -19,7 +19,10 @@ Welcome to my Coding Portfolio! This repository showcases a collection of my pro
 ## Introduction
 
 This repository contains a selection of my best work as a developer. Each project includes detailed documentation, source code, and live demos where applicable. The portfolio is built with responsiveness in mind, ensuring that it looks great and functions well on any device.
+
  ![image](https://github.com/DRX-88/Professional-Portfolio/assets/162182740/f94c3d38-5daa-48a4-88ec-35dbb3643dff)
+
+ 
 ## Technologies Used
 
 - HTML5
