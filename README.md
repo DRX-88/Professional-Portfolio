@@ -12,10 +12,7 @@ Welcome to my Coding Portfolio! This repository showcases a collection of my pro
   - [Project 1: Project Name](#project-1-project-name)
   - [Project 2: Project Name](#project-2-project-name)
   - [Project 3: Project Name](#project-3-project-name)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Contact](#contact)
+- [Live Deployment](#live-deployed-link)
 - [License](#license)
 
 ## Introduction
@@ -43,9 +40,9 @@ This repository contains a selection of my best work as a developer. Each projec
 - Key feature 2
 - Key feature 3
 
-**Live Demo:** https://drx-88.github.io/Professional-Portfolio/
+**Live Demo:** [Link to live demo](#)   
 
-**Repository:** https://github.com/DRX-88/Professional-Portfolio
+**Repository:** [Link to project repository](#)
 
 ### Project 2: Project Name
 
@@ -77,51 +74,10 @@ This repository contains a selection of my best work as a developer. Each projec
 
 **Repository:** [Link to project repository](#)
 
-## Setup and Installation
-
-To view and run the projects locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-portfolio-repo.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd your-portfolio-repo
-   ```
-
-3. Install dependencies (if applicable):
-   ```bash
-   npm install
-   ```
-
-4. Run the project:
-   ```bash
-   npm start
-   ```
-
-## Usage
-
-Open your web browser and navigate to `http://localhost:3000` to view the portfolio. The projects can be accessed from the main navigation menu. Each project includes a detailed README with specific instructions on how to run and use it.
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this portfolio or any of the projects within, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
-
-## Contact
-
-Feel free to reach out if you have any questions or comments!
-
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](#)
-- Portfolio Website: [Your Portfolio Website](#)
+## Live Deployed Link
+https://drx-88.github.io/Professional-Portfolio/
+## Repository Link
+https://github.com/DRX-88/Professional-Portfolio
 
 ## License
 
