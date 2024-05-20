@@ -7,6 +7,7 @@ Welcome to my Coding Portfolio! This repository showcases a collection of my pro
 ## Table of Contents
 
 - [Introduction](#introduction)
+ ![image](https://github.com/DRX-88/Professional-Portfolio/assets/162182740/f94c3d38-5daa-48a4-88ec-35dbb3643dff)
 - [Technologies Used](#technologies-used)
 - [Projects](#projects)
   - [Project 1: Project Name](#project-1-project-name)
