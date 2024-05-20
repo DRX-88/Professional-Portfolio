@@ -43,7 +43,7 @@ This repository contains a selection of my best work as a developer. Each projec
 - Key feature 2
 - Key feature 3
 
-**Live Demo:** [Link to live demo](#)
+**Live Demo:** https://drx-88.github.io/Professional-Portfolio/
 
 **Repository:** https://github.com/DRX-88/Professional-Portfolio
 
