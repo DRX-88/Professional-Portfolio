@@ -27,6 +27,8 @@ This repository contains a selection of my best work as a developer. Each projec
 
 - HTML5
 - CSS3 (Flexbox, Grid, Media Queries)
+
+(*future additions*)
 - JavaScript (ES6+)
 - Frameworks/Libraries (e.g., React, Vue.js)
 - Responsive Design Principles
